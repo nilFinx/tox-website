@@ -70,8 +70,8 @@ yourself to this page.
 # Language bindings
 
 *   [Bash](https://github.com/mensinda/bash-toxcore)
-*   [C# (New)](https://github.com/TheSkymuTeam/Skymu/tree/master/Plugins/Tox/ToxCore.cs)
-*   [C# (Unmaintained)](https://github.com/alexbakker/SharpTox)
+*   [C#](https://github.com/TheSkymuTeam/Skymu/tree/master/Plugins/Tox/ToxCore.cs)
+*   [C#](https://github.com/alexbakker/SharpTox)
 *   [Go](https://github.com/codedust/go-tox) go-tox
 *   [Go](https://github.com/TokTok/go-toxcore-c) go-toxcore
 *   [Go](https://github.com/xhebox/gtox) gtox
